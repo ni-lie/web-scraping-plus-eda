@@ -1,5 +1,3 @@
-# web-scraping-plus-eda
-
 # Scraping a paginated webpage
 In this project, I utilized web scraping techniques to gather data from a paginated webpage. Specifically, I extracted Hockey Team data from [ScrapeThisSite](https://www.scrapethissite.com/pages/forms/?page_num=1), which is an example of a paginated webpage. A paginated webpage is one that is organized into multiple pages, often to accommodate a large amount of data. In the case of the specified page, the Hockey Team data spanned 582 rows and was distributed across multiple pages for a more organized presentation.
 
